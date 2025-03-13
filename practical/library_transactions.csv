@@ -1,0 +1,15 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (days)
+1,2025-03-01,101,Book A,Fiction,7
+2,2025-03-02,102,Book B,Non-Fiction,5
+3,2025-03-03,103,Book C,Mystery,10
+4,2025-03-04,101,Book A,Fiction,3
+5,2025-03-05,104,Book D,Sci-Fi,6
+6,2025-03-06,105,Book E,Biography,4
+7,2025-03-07,106,Book B,Non-Fiction,8
+8,2025-03-08,107,Book C,Mystery,7
+9,2025-03-09,102,Book A,Fiction,9
+10,2025-03-10,103,Book D,Sci-Fi,5
+1,1111-22-22,45454,sgg,dfgdgf,5
+g-99,9999-22-55,55,hii,hey,8
+123,2003-04-28,111,the king,fiction,19
+345,2003-04-26,111,the ralph,cricket,9
